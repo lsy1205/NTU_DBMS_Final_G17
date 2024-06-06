@@ -6,7 +6,7 @@
   * 組長：機械所碩一 包杰修
   * 組員：機械所碩一 侯貝霖
   * 組員：電機系大四 劉瑄穎 (Email: stevenliu901205@gmail.com)
-  *Email(If you encounter problems, feel free to send us an email)*
+  * *Email(If you encounter problems, feel free to send us an email)*
 ## Project Abstract
 In this project, we used **SWAG model** to detect **out of distribution(OOD)** data and integrated it with MySQL. The dataset we used is [**Transaction Fraud Detection**](https://www.kaggle.com/code/benroshan/transaction-fraud-detection/input). Using our model, users can find OOD data which is likely to be fraud transactions. The possible application scenarios are banks, risk control centers, and so on. With this repository, users only need to know how to write MySQL programs and they can **detect OOD data, update model, set threshold** in MySQL workbench. That is to say, users can finish the whole process in MySQL.
 
