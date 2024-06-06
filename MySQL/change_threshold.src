@@ -1,0 +1,2 @@
+g++ -shared -o ./change_threshold.so ./change_threshold.cpp -I/usr/local/mysql/include
+sudo cp ./change_threshold.so /usr/local/mysql/lib/plugin/

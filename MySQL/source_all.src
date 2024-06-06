@@ -1,0 +1,6 @@
+g++ -shared -o ./my_function.so ./my_function.cpp -I/usr/local/mysql/include
+sudo cp ./my_function.so /usr/local/mysql/lib/plugin/
+g++ -shared -o ./create_model.so ./create_model.cpp -I/usr/local/mysql/include
+sudo cp ./create_model.so /usr/local/mysql/lib/plugin/
+g++ -shared -o ./change_threshold.so ./change_threshold.cpp -I/usr/local/mysql/include
+sudo cp ./change_threshold.so /usr/local/mysql/lib/plugin/

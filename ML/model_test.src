@@ -1,0 +1,1 @@
+python3 ./final/model.py 50 0.01 0.9

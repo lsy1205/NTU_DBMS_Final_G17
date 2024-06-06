@@ -1,0 +1,9 @@
+[/path/to/mysql.h/folder]:                       /usr/local/mysql/include
+[/path/to/mysql/plugin]:                         /usr/local/mysql/lib/plugin/
+[path/to/mysql/data]:                            /usr/local/mysql/data
+[path/to/mysql/data/final/]:                     /usr/local/mysql/data/final
+[path/to/mysql/data/final/virtual]:              /usr/local/mysql/data/final/virtual
+[path/to/mysql/data/final/virtual/bin/activate]: /usr/local/mysql/data/final/virtual/bin/activate
+[path/to/mysql/error/log]:                       /usr/local/mysql/data/mysqld.local.err
+[path/to/create_functions.sql]:                  /Users/user/Desktop/DBMS_temp/DBMS_Final/MySQL/create_functions.sql
+[path/to/drop_functions.sql]:                    /Users/user/Desktop/DBMS_temp/DBMS_Final/MySQL/drop_functions.sql

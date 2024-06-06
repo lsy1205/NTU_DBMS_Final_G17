@@ -1,0 +1,2 @@
+g++ -shared -o ./my_function.so ./my_function.cpp -I/usr/local/mysql/include
+sudo cp ./my_function.so /usr/local/mysql/lib/plugin/
