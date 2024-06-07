@@ -4,7 +4,7 @@
 * Group 17
 * Members: 
   * 組長：機械所碩一 包杰修 (Email: canorivera0221@gmail.com)
-  * 組員：機械所碩一 侯貝霖
+  * 組員：機械所碩一 侯貝霖 (Email: oscar104cn@gmail.com)
   * 組員：電機系大四 劉瑄穎 (Email: stevenliu901205@gmail.com)
   * *If you encounter problems, feel free to send us an email*
 ## Project Abstract
