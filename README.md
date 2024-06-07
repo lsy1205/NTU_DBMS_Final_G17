@@ -3,7 +3,7 @@
 ### Topic: DataGuardSQL: OOD Detection
 * Group 17
 * Members: 
-  * 組長：機械所碩一 包杰修
+  * 組長：機械所碩一 包杰修 (Email: canorivera0221@gmail.com)
   * 組員：機械所碩一 侯貝霖
   * 組員：電機系大四 劉瑄穎 (Email: stevenliu901205@gmail.com)
   * *If you encounter problems, feel free to send us an email*
@@ -138,3 +138,5 @@ In this project, we used **SWAG model** to detect **out of distribution(OOD)** d
         *Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at the same time. Both libraries are known to be incompatible and this can cause random crashes or deadlocks on Linux when loaded in the same Python program.*
         * [Refernce Link 1](https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md)
         * [Refernce Link 2](https://github.com/ContinuumIO/anaconda-issues/issues/13221)
+## Reference Links
+* [MySQL Loadable Function](https://dev.mysql.com/doc/extending-mysql/8.4/en/adding-loadable-function.html)
