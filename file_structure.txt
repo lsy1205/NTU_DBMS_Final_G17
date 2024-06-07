@@ -4,7 +4,6 @@
 │   │   ├── data.xlsx
 │   │   ├── label_encoder.pkl
 │   │   ├── model.py
-│   │   ├── model_result.txt
 │   │   ├── predict.py
 │   │   ├── result.txt
 │   │   ├── scaler.pkl
@@ -15,32 +14,32 @@
 │   └── predict_test.src
 ├── MySQL
 │   ├── change_threshold.cpp
-│   ├── change_threshold.so
 │   ├── change_threshold.src
-│   ├── check_model.cpp
-│   ├── check_model.so
-│   ├── check_model.src
 │   ├── create_functions.sql
 │   ├── create_model.cpp
-│   ├── create_model.so
 │   ├── create_model.src
 │   ├── drop_functions.sql
 │   ├── my_func.src
 │   ├── my_function.cpp
-│   ├── my_function.so
 │   ├── sample.sql
 │   └── source_all.src
 ├── README.md
+├── file_structure.txt
 ├── inputdata
 │   ├── OOD_input_data.csv
 │   ├── OOD_output.csv
+│   ├── OOD_test.csv
 │   ├── X_test1.csv
 │   ├── X_test2.csv
 │   ├── X_test3.csv
+│   ├── config.json
+│   ├── data.py
+│   ├── load_data_to_MySQL.ipynb
+│   ├── test1.csv
+│   ├── test2.csv
+│   ├── test3.csv
 │   ├── y_test1.csv
 │   ├── y_test2.csv
 │   └── y_test3.csv
-├── path.txt
-└── useful_function.txt
-
-5 directories, 39 files
+├── install_python_pkg.src
+└── reference_path.txt
