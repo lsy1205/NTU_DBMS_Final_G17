@@ -1,12 +1,14 @@
 # NTU_DBMS_Final_G17
 ## Basic Information
-### Topic: DataGuardSQL: OOD Detection
+### Topic: Next-Gen Novelty Detection with SQL Power
 * Group 17
 * Members: 
   * 組長：機械所碩一 包杰修 (Email: canorivera0221@gmail.com)
   * 組員：機械所碩一 侯貝霖 (Email: oscar104cn@gmail.com)
   * 組員：電機系大四 劉瑄穎 (Email: stevenliu901205@gmail.com)
   * *If you encounter problems, feel free to send us an email*
+### Demonstration Video
+* [Demonstration Video](https://youtu.be/jk3Sgmlbo2o)
 ## Project Abstract
 In this project, we used **SWAG model** to detect **out of distribution(OOD)** data and integrated it with MySQL. The dataset we used is [**Transaction Fraud Detection**](https://www.kaggle.com/code/benroshan/transaction-fraud-detection/input). Using our model, users can find OOD data which is likely to be fraud transactions. The possible application scenarios are banks, risk control centers, and so on. With this repository, users only need to know how to write MySQL programs and they can **detect OOD data, update model, set threshold** in MySQL workbench. That is to say, users can finish the whole process in MySQL.
 
