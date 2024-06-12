@@ -41,6 +41,12 @@ In this project, we used **SWAG model** to detect **out of distribution(OOD)** d
   
 ### File Structure
 * please lookup *file_structure.txt*
+* folders
+  * inputdata: input csv files and the ipynb file to load csv into MySQL
+  * ML: the python files and models used for machine learning in MySQL UDF
+  * MySQL: the cpp files and example sql files
+  * SWAG: the ipynb to show the results of SWAG model
+
 ## How to Use this Repository
 *We use MacOS with M1 chip for DEMO*
 ### Preparation
