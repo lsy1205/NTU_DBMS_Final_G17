@@ -45,7 +45,7 @@ In this project, we used **SWAG model** to detect **out of distribution(OOD)** d
   * inputdata: input csv files and the ipynb file to load csv into MySQL
   * ML: the python files and models used for machine learning in MySQL UDF
   * MySQL: the cpp files and example sql files
-  * SWAG: the ipynb to show the results of SWAG model
+  * SWAG: The ipynb file shows how the data from the experiment is trained and the results are presented. We print the accuracy and probability distribution plots, which can be used to formulate rules for novelty detection.
 
 ## How to Use this Repository
 *We use MacOS with M1 chip for DEMO*
